@@ -1,0 +1,3 @@
+select
+  AUF_NR,
+  AUF_MAN_ENTSCHEID
